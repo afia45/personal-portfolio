@@ -22,4 +22,5 @@
 | Light Purple   | `#a463f2` |
 | Hue            | `250`     |
 
+## Preview
 ![preview img](/preview.png)
