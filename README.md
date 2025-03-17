@@ -1,5 +1,5 @@
 # Responsive Personal Portfolio Website (V1)
-![icon](/assets/img/cat-pp.gif)
+<centre>![icon](/assets/img/cat-pp.gif)</centre>
 [Live Website Link](https://)
 
 ## Languages
