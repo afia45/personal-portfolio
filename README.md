@@ -5,8 +5,12 @@
 
 [Live Website Link (latest version updated)](https://afiacodes.netlify.app/)
 
+<<<<<<< HEAD
 </div>
 
+=======
+</p>
+>>>>>>> b2f6e869b47f5415b200d4cee2a7bd6cf3b17bb1
 
 ## Version
 Web version V1
