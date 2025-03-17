@@ -1,6 +1,6 @@
 # Responsive Personal Portfolio Website (V1)
 <p align="center"> <img align="centre" alt="kitty" width="300" src="assets/img/cat-pp.gif"></p>
-[Live Website Link - latest version](https://afiacodes.netlify.app/)
+![Live Website Link - latest version](https://afiacodes.netlify.app/)
 
 ## Version
 Web version V1
