@@ -3,7 +3,11 @@
 
 <div align="center">
 
+
 [Live Website Link (latest version updated)](https://afiacodes.netlify.app/)
+<br>
+
+[V1 - Live Link](https://afia45.github.io/personal-portfolio/)
 
 </div>
 
